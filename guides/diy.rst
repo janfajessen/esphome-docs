@@ -55,6 +55,7 @@ Blog Posts & Videos
 - `Cheap 10$ Air quality monitor WP6003: ESP32, Bluetooth & Home assistant <https://omarghader.github.io/esp32-airquality-box-wp6003-homeassistant/>`__ by `Omar GHADER <https://omarghader.github.io/post>`__
 - `ESP32 AM312 motion sensor : light automation <https://omarghader.github.io/esp32-am312-pir-motion-sensor/>`__ by `Omar GHADER <https://omarghader.github.io/post>`__
 - `Little thermostat based on AZ-Touch hardware and esphome <https://github.com/ingbenna/AZ-Touch_esphome_thermostat/>`_ by ingbenna
+- `Radio Control Car for Surveillance Camera with 2 servo motors in pan tilt, 4 TT motors, L298N motor controller and leds <https://github.com/janfajessen/EspHome-RC-FPV-Car-Robot-ve0.1-Esp8266-pantilt-Servo-motors-Camera-USB-led-L298N---Home-Assistant/>`_ by janfajessen
 
 Custom Components & Code
 ------------------------
