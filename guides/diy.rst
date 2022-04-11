@@ -22,6 +22,7 @@ unless it's truly exceptional, etc.
 
 Blog Posts & Videos
 -------------------
+- `RC Car Camera Robot FPV, Control a Camera wherever you want` <https://github.com/janfajessen/EspHome-RC-FPV-Car-Robot-Esp8266-pantilt-Servo-motors-Camera-USB-led-L298N---Home-Assistant/>`__ by `janfajessen`
 - `Build a cheap air quality sensor <https://www.pieterbrinkman.com/2021/02/03/build-a-cheap-air-quality-meter-using-esphome-home-assistant-and-a-particulate-matter-sensor/>`__ by `Pieter <http://www.pieterbrinkman.com>`__
 - `Track your water usage using a proximity sensor <https://www.pieterbrinkman.com/2022/02/02/build-a-cheap-water-usage-sensor-using-esphome-home-assistant-and-a-proximity-sensor/>`__ by `Pieter <http://www.pieterbrinkman.com>`__
 - `Collecting Temperature Data from ELA Bluetooth Puck with ESPHome <https://blog.weinreich.org/posts/2020/2020-12-14-esphome-ble-ela/>`__ by `lairsdragon <https://www.weinreich.org/>`__
